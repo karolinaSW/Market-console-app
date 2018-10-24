@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1516558142 source:c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\koszyk.cpp
+	"koszyk.h"
+
+1516555402 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\koszyk.h
+	<iostream>
+	<string>
+	<fstream>
+	<math.h>
+	<windows.h>
+	<time.h>
+	"produkty.h"
+
+1516552263 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\produkty.h
+	<iostream>
+	<time.h>
+	<iostream>
+	<string>
+
+1516558382 source:c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\nabial.cpp
+	<iostream>
+	<time.h>
+	"nabial.h"
+
+1516555402 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\nabial.h
+	<iostream>
+	<time.h>
+	"dzial.h"
+
+1516555402 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\dzial.h
+	"koszyk.h"
+	"Produkty.h"
+
+1516558678 source:c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\napoje.cpp
+	<iostream>
+	<time.h>
+	"napoje.h"
+
+1516555402 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\napoje.h
+	<iostream>
+	<time.h>
+	"dzial.h"
+
+1516558382 source:c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\owoce.cpp
+	<iostream>
+	<time.h>
+	"owoce.h"
+
+1516555402 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\owoce.h
+	<iostream>
+	<time.h>
+	"dzial.h"
+
+1516552262 source:c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\produkty.cpp
+	<iostream>
+	"produkty.h"
+	<time.h>
+
+1516558382 source:c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\warzywa.cpp
+	<iostream>
+	<time.h>
+	"warzywa.h"
+
+1516555402 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\warzywa.h
+	<iostream>
+	<time.h>
+	"dzial.h"
+
+1516557583 source:c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<cstdio>
+	"koszyk.h"
+	"produkty.h"
+	"owoce.h"
+	"warzywa.h"
+	"dzial.h"
+	"nabial.h"
+	"napoje.h"
+	"bledy.h"
+
+1516556199 c:\users\dom\desktop\programowanie\x\zaliczenie\sklep_projekt\bledy.h
+	<string>
+	<iostream>
+
